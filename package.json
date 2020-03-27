@@ -1,6 +1,6 @@
 {
   "name": "@taunoha/ldaccess",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use this programm to restrict access to web folder using htpasswd.",
   "main": "index.js",
   "keywords": [],
@@ -10,7 +10,7 @@
   },
   "license": "ISC",
   "bin": {
-    "ldaccess": "./index.js"
+    "ldaccess": "./cli.js"
   },
   "dependencies": {
     "chalk": "^3.0.0",

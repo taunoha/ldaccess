@@ -1,12 +1,19 @@
 {
   "name": "@taunoha/ldaccess",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use this programm to restrict access to web folder using htpasswd.",
   "main": "index.js",
   "keywords": [],
   "author": "Tauno Hanni",
   "repository": {
     "url": "git://github.com/taunoha/ldaccess.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "ldaccess": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^5.0.0"
+  }
 }

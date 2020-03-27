@@ -1,0 +1,12 @@
+{
+  "name": "@taunoha/ldaccess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Tauno Hanni",
+  "repository": {
+    "url": "git://github.com/taunoha/ldaccess.git"
+  },
+  "license": "ISC"
+}

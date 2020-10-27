@@ -1,12 +1,9 @@
 Order deny,allow
 Deny from All
 
-AuthName "LOOM Digital Prelive"
+AuthName "Prelive"
 AuthType Basic
 AuthUserFile {{dir}}/.htpasswd
 require valid-user
-
-#LOOM Server
-Allow from 192.168.80
 
 Satisfy any

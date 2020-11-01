@@ -3,7 +3,7 @@
 ```shell
 Usage: ldaccess [options]
 
-Use this programm to restrict access to web folder using htpasswd.
+Use this program to restrict access to the web folder using htpasswd.
 
 Options:
   -V, --version          output the version number
